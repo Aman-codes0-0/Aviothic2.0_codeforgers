@@ -2,9 +2,6 @@
 
 > **Private. Real-time. Anonymous.**  
 > A secret-key based anonymous chat room application built with Node.js, Socket.IO, and TailwindCSS.
-
-![Anon-Chat Preview](./preview.png)
-
 ---
 
 ## ✨ Features
